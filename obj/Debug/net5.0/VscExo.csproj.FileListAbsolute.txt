@@ -1,0 +1,16 @@
+C:\Users\Camil\VscExo\bin\Debug\net5.0\VscExo.exe
+C:\Users\Camil\VscExo\bin\Debug\net5.0\VscExo.deps.json
+C:\Users\Camil\VscExo\bin\Debug\net5.0\VscExo.runtimeconfig.json
+C:\Users\Camil\VscExo\bin\Debug\net5.0\VscExo.runtimeconfig.dev.json
+C:\Users\Camil\VscExo\bin\Debug\net5.0\VscExo.dll
+C:\Users\Camil\VscExo\bin\Debug\net5.0\ref\VscExo.dll
+C:\Users\Camil\VscExo\bin\Debug\net5.0\VscExo.pdb
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.csproj.AssemblyReference.cache
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.AssemblyInfoInputs.cache
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.AssemblyInfo.cs
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.csproj.CoreCompileInputs.cache
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.dll
+C:\Users\Camil\VscExo\obj\Debug\net5.0\ref\VscExo.dll
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.pdb
+C:\Users\Camil\VscExo\obj\Debug\net5.0\VscExo.genruntimeconfig.cache
